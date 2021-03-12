@@ -19,7 +19,7 @@
       <div
         class="collapse navbar-collapse"
         id="navbarSupportedContent"
-        style="margin-left:35rem;"
+        style="margin-left:38rem;"
       >
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
